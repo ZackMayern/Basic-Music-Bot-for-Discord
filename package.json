@@ -1,0 +1,21 @@
+{
+  "name": "evrecords",
+  "version": "1.0.0",
+  "description": "Discord Bot exclusive to Enigmaverse. Code by ZackMayern#4995",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZackMayern (Anubhav Sahu)",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "install": "^0.13.0",
+    "npm": "^7.23.0",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.10.0"
+  }
+}
